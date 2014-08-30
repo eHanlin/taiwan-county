@@ -1,0 +1,15 @@
+{
+  "author" : "hotdog929 <hotdog929@gmail.com>",
+  "name" : "taiwan-county",
+  "description" : "taiwan county",
+  "version" : "0.0.1",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/eHanlin/taiwan-county.git"
+  },
+  "main" : "lib/taiwan-county.js",
+  "devDependencies" : {
+    "coffee-script" : ">= 1.8.0"
+  },
+  "keywords" : ["taiwan", "county"]
+}
