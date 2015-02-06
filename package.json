@@ -2,7 +2,7 @@
   "author" : "hotdog929 <hotdog929@gmail.com>",
   "name" : "taiwan-county",
   "description" : "taiwan county",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "repository" : {
     "type" : "git",
     "url" : "https://github.com/eHanlin/taiwan-county.git"
